@@ -21,6 +21,7 @@
 
 body {
     background-color: var(--pastel);
+    font-family: var(--font-inter);
 }
 
 .container {
